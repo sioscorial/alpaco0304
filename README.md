@@ -4,3 +4,4 @@
 4. Method : Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012).
 5. 모델 : CNN
 
+<img src ="architecture.jpg" width="200" heigth ="400"/>
