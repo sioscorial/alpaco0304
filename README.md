@@ -6,3 +6,4 @@
 
 ![architecture](https://github.com/sioscorial/alpaco0304/assets/131604960/2ce4b789-e43f-41f4-a7bc-24a9108a9231)
 ![output](https://github.com/sioscorial/alpaco0304/assets/131604960/2528ecf0-06b2-413a-a104-0143093c11c9)
+<img src="[/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG](https://github.com/sioscorial/alpaco0304/assets/131604960/2ce4b789-e43f-41f4-a7bc-24a9108a9231)"  width="700" height="370">
